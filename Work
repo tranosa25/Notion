@@ -1,0 +1,46 @@
+## **Windows Web**
+
+- [ ]  Log Performance
+- [ ]  Winevent Log Sercurity (Logon PC)
+- [ ]  [Microsoft-Windows-TerminalServices-LocalSessionManager/Operational (RDP)](SystemRoot%\System32\Winevt\Logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx)
+    - [ ]  Log Path IIS
+
+[C:\inetpub\logs\LogFiles\W3SVC1](https://www.notion.so/C-inetpub-logs-LogFiles-W3SVC1-aebc628da7cb4d59b2e649968c6329f7?pvs=21)
+
+## Windows DB
+
+- [ ]  [Splunk add-on for MS SQL Server](https://splunkbase.splunk.com/app/2648)
+- [ ]  Winevent Log Application (Logon DB, Backup, Running proccess ID)
+- [ ]  Winevent Log Sercurity (Logon PC)
+- [ ]  Microsoft-Windows-TerminalServices-LocalSessionManager/Operational (RDP)
+- [ ]  Log Performance
+
+[System Event For Web Services (IIS)](https://www.notion.so/System-Event-For-Web-Services-IIS-160c38d1ab514c228509562e5ffb970d?pvs=21)
+
+[DB table ](https://www.notion.so/DB-table-bd810c38dc8f432f893bd8f6d39b7970?pvs=21)
+
+## Windows DC,DNS,NTP
+
+- [ ]  DNS Server, DNS Server Service Log
+- [ ]  Log Performance
+- [ ]  Time Service Log
+- [ ]  Microsoft-Windows-TerminalServices-LocalSessionManager/Operational (RDP)
+- [ ]  Winevent Log Sercurity (Logon PC)
+
+https://github.com/tranosa25
+
+## Linux DB MySQL
+
+- [ ]  [Error Log](/var/log/mysql/error.log) MySQL
+- [ ]  [Authen Log](/var/log/auth.log) OS
+- [ ]  Log OS, Service
+
+## Linux Apache
+
+- [ ]  httpd Log
+- [ ]  [Authen Log](/var/log/auth.log) OS
+- [ ]  Log OS, Service
+
+## Linux DB Maria
+
+[]()
